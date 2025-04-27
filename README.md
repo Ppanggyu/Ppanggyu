@@ -15,3 +15,5 @@
 
 
 ![Ppanggyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ppanggyu&show_icons=true&theme=radical)
+
+<a href="https://github.com/Ppanggyu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ppanggyu&layout=compact&theme=nord&hide_border=true" /></a> 
