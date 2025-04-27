@@ -12,4 +12,4 @@
  
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-<img src="https://img.icons8.com/ios/50/000000/database.png" />
+<img src="https://img.shields.io/badge/JSTL-000000?style=flat-square&logo=java" />
