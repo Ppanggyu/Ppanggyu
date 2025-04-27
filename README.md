@@ -12,4 +12,4 @@
  
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-img src="https://img.shields.io/badge/MyBatis-#F5F5F5?style=flat-square&logo=Java&logoColor=blue" />
+<img src="https://img.shields.io/badge/MyBatis-#F5F5F5?style=flat-square&logo=Java&logoColor=blue" />
