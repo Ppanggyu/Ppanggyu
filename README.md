@@ -19,5 +19,5 @@
 </div>
 
 
-## 프로젝트
+## Project List
 <a href="https://github.com/Ppanggyu/naeilhome.git">[2025.04]쇼핑몰 웹 프로젝트 - 쇼핑몰 + 커뮤니티 혼합</a>
