@@ -1,4 +1,4 @@
-<h1 aling="center" style="margin-bottom: 0;">안녕하세요, Lim HyeonKyu 입니다👋</h1>
+<h1 aling="center">안녕하세요, Lim HyeonKyu 입니다👋</h1>
 
 
 
