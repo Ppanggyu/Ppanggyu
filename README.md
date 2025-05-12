@@ -1,4 +1,4 @@
-<h1 align="center">Lim HyeonKyu</h1>
+<h1 align="center">Hi, I'm Lim HyeonKyu👋</h1>
 
 
 ## 💻tech stack
@@ -23,5 +23,5 @@
 </div>
 
 
-## Project List
+## 💡Project List
 <a href="https://github.com/Ppanggyu/naeilhome.git">[2025.04]쇼핑몰 웹 프로젝트 - 쇼핑몰 + 커뮤니티 혼합</a>
