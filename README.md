@@ -1,7 +1,7 @@
 <h1 align="center" style="border: none;">안녕하세요, Lim HyeonKyu 입니다👋</h1>
 <br><br><br><br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=auto&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=auto&section=footer" />
 
 
 ## 👨‍💻 소개
