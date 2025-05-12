@@ -1,6 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요,%20LimHyeonKyu%20입니다👋&fontSize=30" />
 <h1 align="center" style="border: none;">안녕하세요, Lim HyeonKyu 입니다👋</h1>
 <br><br><br><br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=auto&section=header" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=auto&section=footer" />
 
 
