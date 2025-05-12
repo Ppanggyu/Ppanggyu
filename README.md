@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=안녕하세요,%20LimHyeonKyu%20입니다👋&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=beff9e&height=200&section=header&text=안녕하세요,%20LimHyeonKyu%20입니다👋&fontSize=30" />
 <h1 align="center" style="border: none;">안녕하세요, Lim HyeonKyu 입니다👋</h1>
 <br><br><br><br><br>
 
@@ -47,4 +47,4 @@
 
 또한 Spring Security를 활용한 보안 인증 및 인가 처리와 Node.js를 활용한 백엔드 개발을 학습할 예정입니다.
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=beff9e&height=200&section=footer" />
