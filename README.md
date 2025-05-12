@@ -47,4 +47,4 @@
 
 또한 Spring Security를 활용한 보안 인증 및 인가 처리와 Node.js를 활용한 백엔드 개발을 학습할 예정입니다.
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer" />
+
