@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Lim HyeonKyu👋</h1>
+<h1 align="center">안녕하세요, Ppanggyu 입니다!👋!</h1>
+
+
+## 👨‍💻 소개
+💻 국비교육을 수료하여 Java기반 웹 애플리케이션을 만드며 SI개발자를 목표로 하고있습니다.
+🎓 현재 [학점은행제 컴퓨터공학과]를 전공 중 입니다.
 
 
 ## 🛠️My Tech Stack
