@@ -34,6 +34,7 @@
 
 ## 💡 프로젝트
 <a href="https://github.com/Ppanggyu/naeilhome.git">[2025.04]'내일의집' 쇼핑몰 웹 프로젝트</a>
+<img src="main.png" />
 - 쇼핑몰과 커뮤니티를 혼합한 프로젝트
 - Oracle DB, MyBatis를 사용하여 데이터 관리
 - 현재 JPA, MySQL을 활용한 리펙토링 진행 중
