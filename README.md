@@ -4,8 +4,8 @@
 
 ## 👨‍💻 소개
 💻 사용성과 코드 품질을 고려한 개발을 통해 실무에 강한 백엔드 개발자를 목표로 합니다.<br>
-🎓 현재 <b>[학점은행제 컴퓨터공학과]</b>를 전공 중입니다.<br>
-🚀 내일의집 프로젝트를 JPA 기반으로 개선 중입니다.<br>
+🎓 현재 <b>[한양사이버대학교 컴퓨터공학과]</b>를 전공 중입니다.<br>
+🚀 <a href="https://github.com/Ppanggyu/WorkFlow.git">WorkFlow</a> 프로젝트를 진행 중 입니다.<br>
 
 
 
@@ -38,12 +38,12 @@
 
 
 ## 💡 프로젝트
-<a href="https://github.com/Ppanggyu/naeilhome.git"><img src="main.png" />[2025.04]'내일의집' 쇼핑몰 웹 프로젝트</a>
+<a href="https://github.com/Ppanggyu/naeilhome.git">[2025.04]'내일의집' 쇼핑몰 웹 프로젝트</a>
 - 쇼핑몰과 커뮤니티를 혼합한 프로젝트
 - Oracle DB, MyBatis를 사용하여 데이터 관리
 - 현재 JPA, MySQL을 활용한 리펙토링 진행 중
 
-- <a href="https://github.com/Ppanggyu/WorkFlow.git"><img src="main.png" />[2026.01~]'WorkFlow' 사내 업무 관리 프로젝트</a>
+- <a href="https://github.com/Ppanggyu/WorkFlow.git">[2026.01~]'WorkFlow' 사내 업무 관리 프로젝트</a>
 - 사내 업무 관리 시스템 개발
 - Security, JWT, JPA, Postgre를 이용한 프로젝트
 
