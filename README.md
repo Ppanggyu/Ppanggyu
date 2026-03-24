@@ -43,11 +43,13 @@
 - Oracle DB, MyBatis를 사용하여 데이터 관리
 - 현재 JPA, MySQL을 활용한 리펙토링 진행 중
 
+- <a href="https://github.com/Ppanggyu/WorkFlow.git"><img src="main.png" />[2026.01~]'WorkFlow' 사내 업무 관리 프로젝트</a>
+- 사내 업무 관리 시스템 개발
+- Security, JWT, JPA, Postgre를 이용한 프로젝트
+
 
 
 ## 📚 향후 목표 및 준비 중인 기술
-정보처리산업기사 자격증을 준비 중이며 자격요건 충족 시 정보처리기사도 응시할 계획입니다.
-
-또한 Spring Security를 활용한 보안 인증 및 인가 처리와 Node.js를 활용한 백엔드 개발을 학습할 예정입니다.
+한양사이버대학교에 입학하여 2년이 채워질 시 정보처리산업기사에 도전할 예정이며 자격요건이 충족된다면 정보처리기사에도 응시할 계획입니다.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=beff9e&height=150&section=footer" />
