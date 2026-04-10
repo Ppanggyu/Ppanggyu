@@ -49,7 +49,7 @@
 
 <a href="https://github.com/Ppanggyu/WorkFlow.git">[2026.01~]'WorkFlow' 사내 업무 관리 프로젝트</a>
 - 사내 업무 관리 시스템 개발
-- Security, JWT, JPA, Postgre를 이용한 프로젝트
+- Security, JWT, JPA, React, Postgre를 이용한 프로젝트
 
 
 
